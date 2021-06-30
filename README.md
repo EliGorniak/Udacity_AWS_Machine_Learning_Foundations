@@ -1,5 +1,5 @@
 <h1 align="center">
-Udacity AWS Machine Learning Foundations
+Udacity AWS Machine Learning Foundations Course
 </h1>
 
 ![picture alt](/ml-scholarship-2.jpg "ml-scholarship-2.jpg") 
